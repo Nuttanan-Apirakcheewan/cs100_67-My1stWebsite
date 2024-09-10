@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+body
+{
+    background-image: url("https: //www 0.101computing .net/wp/wp content/uploads/wood .jpg");
+    padding: 20px;
+}
+.poster
+{
+    width: 488px;
+    height: 640px;
+    background-image: url("https://www.101computing.net/wp/wp-content/uploads/parchment.jpg");
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    -webkit-box-shadow: 7px 9px 20px 13px #272727; 
+    box-shadow: 7px 9px 20px 13px #000000;
+    font-family: Ultra ;
+    color: #291200;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+#mugshot
+{
+    width: 300px;
+    height: 325px;
+    border: solid #291200 2px;
+    padding: 10px;
+}
+.poster h1
+{
+    font-family: "Ewert" ;
+    color:  #291200;
+    font-size: 60px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-style: normal;
+}
+#price
+{
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-size: 35px;
+    margin-top: -15px;
+}
+.description
+{
+    font-style: italic;
+    margin-top: -15px;
+}
+.name
+{
+    font-size: 25px;
+    margin-top: -3px;
+
+}
+.poster h2
+{
+    margin-top: -10px;
+}
